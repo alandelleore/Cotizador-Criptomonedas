@@ -9,8 +9,8 @@ https://criptonow.netlify.app/
 +JAVASCRIPT
 
 # View
+![app cripto](https://user-images.githubusercontent.com/84545725/180108607-675e7967-3d37-46a6-99c9-334a1fcafe71.jpg)
 
-![cap1](https://user-images.githubusercontent.com/84545725/180107972-0cd584a8-2b8d-4d1e-8b8a-45ce5783fbfb.jpeg)
-![cap2](https://user-images.githubusercontent.com/84545725/180107980-d165761f-d6fe-4719-a400-381823e80424.jpeg)
+
 
 
